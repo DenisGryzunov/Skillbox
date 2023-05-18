@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// Четные и нечетные
 func main() {
 	var numbers [10]int
 	for i, _ := range numbers {
